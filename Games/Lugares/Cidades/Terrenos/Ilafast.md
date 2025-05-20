@@ -1,0 +1,1 @@
+Uma cidade conhecida por ser bem popular em demanda em diversidade seus locais são **agradáveis**, **luxuosa** sendo que quem tem uma estação financeira bem vai viver por essa cidade, além que também da apoio aos menos afortunados numa área **modesta**

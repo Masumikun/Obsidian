@@ -1,0 +1,1 @@
+Um dos maiores e melhores reinos de **magia** e **tecnologia** entre os reinos que exite, até sua própria moeda fizeram, um local que cheio de **caminhos do [[Feiticeiro]]** (classe básica), geralmente o locais e construções são representações do seu próprio ser.

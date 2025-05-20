@@ -1,0 +1,1 @@
+O nivelamento do local não é do melhores e seu reino não da tudo que eles querem, mas até o reino uma ilusão de suas mentes sendo que o local sobre de **abandonado**, sendo a cidade mais **sórdida** com situação bem fechada

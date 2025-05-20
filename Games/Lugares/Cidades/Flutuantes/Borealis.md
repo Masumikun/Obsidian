@@ -1,0 +1,1 @@
+Local bem **simples** que vive sobre comércio de negociação, suas línguas e mente de negócios são tão altos que moeda própria fizeram sobre a demanda mundial com reforço da organização mandante no mundo chamada *[[Imaginetworks]]*. 

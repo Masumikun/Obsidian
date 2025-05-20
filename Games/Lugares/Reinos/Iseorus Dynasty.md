@@ -1,0 +1,1 @@
+O reino domado pela sua plenitude de ***natureza*** sendo um reino de origem que trai, bastante quem procura por apenas **florestas** e campos, até mesmo uma **selva** sendo sua floresta ligada ao reino próprio é *Emerburns Wood*, sua única selva que é *Abulifi Jungles*.

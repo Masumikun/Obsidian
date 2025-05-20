@@ -1,0 +1,1 @@
+Dinastia dos *guerreiros* sempre a força levanta seus valores sempre tem **[Orkrashs](obsidian://open?vault=Obsidian&file=Sub-Obsidians%2FRPG%2FPlayers%2FLegados)** nesse local pela ligação de luta e procura pela batalha, apenas os lutadores de outros cantos são bem vindos.
