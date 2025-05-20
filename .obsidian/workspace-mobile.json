@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "c8cdb40858b7f892",
+    "type": "split",
+    "children": [
+      {
+        "id": "db6bc10b3a3389f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6698885d83031eb4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/📓 Diário/day 1.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "day 1"
+            }
+          },
+          {
+            "id": "196cfd9b8d56255c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "019dac3f114b1c4b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cffef0aaed20e576",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "20faa82d47609ac6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "3ed4b480ed6cd044",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "66535035ccccc7c2",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "8a07167eddd40e6a",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Navigator"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "edc27ec5023f0016",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "db344d9c5334b151",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Writing/NeworldTale ep2.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "9785ecf4714a0747",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Writing/NeworldTale ep2.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "2430aec16b98a634",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Sub-Obsidians/RPG/Classes/Undertale/Caminho da Almas.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "196cfd9b8d56255c",
+  "lastOpenFiles": [
+    "Writing/NeworldTale ep1.md",
+    "Writing/📓 Diário/day 1.md",
+    "Writing/NeworldTale ep2.md",
+    "Tags/Tags.md",
+    "Untitled.md",
+    "Notes.md",
+    "Sub-Obsidians/RPG/Classes/Undertale/Caminho da Almas.md",
+    "Writing/魂の仕組み.md",
+    "untitled.md",
+    "Sub-Obsidians/RPG/Livro/Manual de Combate.md",
+    "Writing/Mecânica Undertale.md",
+    "Sub-Obsidians/RPG/Criatura/Criatura.md",
+    "Sub-Obsidians/RPG/Inicias P/Inicias P.md",
+    "Sub-Obsidians/RPG/Criatura/Criatura-e.md",
+    "Sub-Obsidians/RPG/Classes/Classes.md",
+    "Sub-Obsidians/RPG/Livro/Livro.md",
+    "Sub-Obsidians/RPG/Players/Players.md",
+    "Sub-Obsidians/RPG/Livro/Dados & testes.md",
+    "Sub-Obsidians/RPG/Livro/Introdução.md",
+    "Toggles.md",
+    "Sub-Obsidians/Storyline/Lore.md",
+    "Writing",
+    "Games/Imaginetworks.md",
+    "Untitled",
+    "Games/Classes/Classes.md",
+    "Games/Inimigos/Inimigos.md",
+    "Games/Quests/Quests.md",
+    "Games/Legados/Legados.md",
+    "Games/Games.7z"
+  ]
+}

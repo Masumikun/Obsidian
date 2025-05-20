@@ -1,0 +1,1 @@
+São definição para roda de **raças** dentro do RPG, no mundo que existe sobre termo como **Legado**.
