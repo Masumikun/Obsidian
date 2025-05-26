@@ -4,41 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "db6bc10b3a3389f4",
+        "id": "978bcca3055a6ebe",
         "type": "tabs",
         "children": [
           {
-            "id": "6698885d83031eb4",
+            "id": "864a449236e4ebb0",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/📓 Diário/day 1.md",
+                "file": "Anotações/Notepads.md",
                 "mode": "source",
                 "source": true
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "day 1"
-            }
-          },
-          {
-            "id": "196cfd9b8d56255c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Notepads"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +86,7 @@
         }
       },
       {
-        "id": "8a07167eddd40e6a",
+        "id": "46b34f1f16a1d7bf",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -144,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/NeworldTale ep2.md",
+            "file": "Sub-Obsidians/RPG/Inicias P/6° Inicial.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -180,36 +163,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "196cfd9b8d56255c",
+  "active": "864a449236e4ebb0",
   "lastOpenFiles": [
-    "Writing/NeworldTale ep1.md",
-    "Writing/📓 Diário/day 1.md",
-    "Writing/NeworldTale ep2.md",
-    "Tags/Tags.md",
-    "Untitled.md",
-    "Notes.md",
+    "Anotações/Notepads.md",
+    "Writing/📓 Diário/day 2.md",
     "Sub-Obsidians/RPG/Classes/Undertale/Caminho da Almas.md",
-    "Writing/魂の仕組み.md",
-    "untitled.md",
     "Sub-Obsidians/RPG/Livro/Manual de Combate.md",
-    "Writing/Mecânica Undertale.md",
-    "Sub-Obsidians/RPG/Criatura/Criatura.md",
-    "Sub-Obsidians/RPG/Inicias P/Inicias P.md",
-    "Sub-Obsidians/RPG/Criatura/Criatura-e.md",
     "Sub-Obsidians/RPG/Classes/Classes.md",
-    "Sub-Obsidians/RPG/Livro/Livro.md",
-    "Sub-Obsidians/RPG/Players/Players.md",
-    "Sub-Obsidians/RPG/Livro/Dados & testes.md",
-    "Sub-Obsidians/RPG/Livro/Introdução.md",
+    "Sub-Obsidians/RPG/Classes/Devoto.md",
+    "Sub-Obsidians/RPG/Classes/Feiticeiro.md",
+    "Sub-Obsidians/RPG/Classes/Ladino.md",
+    "Sub-Obsidians/RPG/Classes/Andarilho.md",
+    "Sub-Obsidians/RPG/Classes/Combatente.md",
+    "Sub-Obsidians/RPG/Inicias P/10° Inicial.md",
+    "Sub-Obsidians/RPG/Inicias P/6° Inicial.md",
+    "Sub-Obsidians/RPG/Inicias P/7° Inicial.md",
+    "Sub-Obsidians/RPG/Inicias P/5° Inicial.md",
+    "Sub-Obsidians/RPG/Inicias P/2° Inicial.md",
+    "Sub-Obsidians/RPG/Inicias P/3° Inicial.md",
+    "Sub-Obsidians/RPG/Livro/Comércio & Equipamentos.md",
+    "Sub-Obsidians/RPG/Players/Legados.md",
+    "Sub-Obsidians/RPG/Inicias P/1° Incial.md",
+    "Sub-Obsidians/RPG/Inicias P/9° Inicial.md",
+    "Sub-Obsidians/RPG/Players/Legados/Delahks_Gaia.png",
+    "Sub-Obsidians/RPG/Inicias P/4° Inicial.md",
+    "Sub-Obsidians/RPG/Inicias P/Extras/Teste.md",
+    "Sub-Obsidians/RPG/Inicias P/Extras/Extras.md",
+    "Sub-Obsidians/RPG/Inicias P/8° Inicial.md",
     "Toggles.md",
-    "Sub-Obsidians/Storyline/Lore.md",
+    "Untitled.md",
+    "Sub-Obsidians/RPG/Players/Legados/Alraunes.png",
+    "Sub-Obsidians/RPG/Players/Legados/Alraunes_Gaia.png",
+    "Sub-Obsidians/RPG/Players/Legados/Daevas_Gaia.png",
+    "Sub-Obsidians/RPG/Players/Legados/Delahks.jpg",
+    "Sub-Obsidians/RPG/Players/Legados/Inaris.jpg",
+    "Sub-Obsidians/RPG/Players/Legados/Kahats’zas (2).png",
+    "Sub-Obsidians/RPG/Players/Legados/Zaokans.jpg",
+    "Sub-Obsidians/RPG/Players/Legados/Yuansus_male.jpg",
+    "Sub-Obsidians/RPG/Players/Legados/Yuansu_Samurai_screenshot.png",
     "Writing",
-    "Games/Imaginetworks.md",
     "Untitled",
-    "Games/Classes/Classes.md",
-    "Games/Inimigos/Inimigos.md",
-    "Games/Quests/Quests.md",
-    "Games/Legados/Legados.md",
     "Games/Games.7z"
   ]
 }

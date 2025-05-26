@@ -1,0 +1,73 @@
+- [ ] Toggle
+<br>
+- [A] Nothing
+- [B] Toggle B
+- [C] Toggle C
+- [D] drafts
+- [E] Toggle E
+- [F] energy
+- [G] Toggle G
+- [H] Toggle H
+- [I] idea
+- [J] Toggle J
+- [K] Toggle K
+- [L] translation
+- [M] helping
+- [N] Toggle N
+- [O] Toggle 0
+- [P] people
+- [Q] Toggle Q
+- [R] Toggle R
+- [S] economy
+- [T] called
+- [U] ???
+- [V] Toggle V
+- [W] World
+- [X] done
+- [Y] Toggle Y
+- [Z] Toggle Z
+<br>
+- [a] Toggle a
+- [b] bookmark
+- [c] con
+- [d] down
+- [f] fire
+- [i] information
+- [k] key
+- [l] location
+- [m] régua
+- [n] pin
+- [o] Toggle o
+- [p] pro
+- [r] rules
+- [s] Toggle s
+- [t] time
+- [u] up
+- [w] win
+- [x] done
+- [y] Toggle y
+- [z] Toggle z
+<br>
+- [0] 0
+- [1] 1
+- [2] 2
+- [3] 3
+- [4] 4
+- [5] 5
+- [6] 6
+- [7] 7
+- [8] 8
+- [9] 9
+<br>
+- [<] scheduling
+- [>] forwarded
+- [#] tag
+- [$] money
+- [-] called
+- [+] add
+- [*] star
+- ["] quote
+- [!] important
+- [?] question
+- [.] ???
+<br>

@@ -99,3 +99,34 @@ Meu panda vermelho só quer te amar!
 
 "Jogos que deixam de se cinzas"
 "Estou feliz no mar."
+
+---
+"Sobre os olhos do momentos posso sobre dizer numa maré desse momentos irei navegador cada frase de lembrança fazendo bem a mim mesmo"
+"Enquanto procuro o melhor de mim e melhorar cada vez mais, tornando e moldando aquilo que quero de bem"
+"Esquecendo dores e amarguras"
+"Dando a fluidez ao modo"
+"Não me importando com problema que não são meu controle"
+"Que não posso controlar por mim, não darei importância"
+
+
+"O mago apenas andará na maré"
+"Sobre o mar de dor"
+"Sua pernas o guiaram"
+"Com passos sereno"
+
+"O tempo os diram"
+"Facas das frases"
+"Lágrima do andarilho"
+"Afogado uma vez ja foi então"
+
+"Andarilho em pássaro voou"
+"No sol da lua de escuridão"
+"O mar uma dor que passará sobre então"
+"Com luvas que os secaram"
+
+"Nas mão de um místico que imagina"
+"Os levará mais a frente"
+"Em momentos com traços de um momento"
+"Eu sorrio na escuridão"
+
+---
