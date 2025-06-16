@@ -33,5 +33,8 @@
   "minimal-style@@h5-l": true,
   "minimal-style@@h5-color@@dark": "#FA8072",
   "minimal-style@@h6-l": true,
-  "minimal-style@@h6-color@@dark": "#8A2BE2"
+  "minimal-style@@h6-color@@dark": "#8A2BE2",
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-in-the-note",
+  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-custom-option"
 }

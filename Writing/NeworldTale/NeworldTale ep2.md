@@ -1,4 +1,4 @@
-Volta?[[NeworldTale ep1]]
+[⬅️ Volta](obsidian://open?vault=Obsidian&file=Writing%2FNeworldTale%20ep1)
 
 # Vazio do cego
 Quando caiu nas *flores azul*, era <span style="color:rgb(0, 255, 0)">curativas</span> que pareciam fazer sua magia diante da alma que ficava aquele local, porém uma nova criança caiu no local, sendo uma *<span style="color: rgb(192,192,192)">Void</span>* e última alma se encontrar em torno disso tudo foi seu plano que deu origem era acabar com termo de monstro na superfície e humanos reinarem no mundo.
@@ -19,7 +19,7 @@ Sans ➣ ❝Por que está nos observando?❞ *Diz Sans em dúvida*
 
 **Sans** aceitou apesar disso o incômoda bastante, com o tempo a pessoas que morriam e caia no sub-solo novo que era hábito por monstro que gostam de viver nesse local, era frequentemente transformado em local caótico por almas <span style="color: rgb(192,192,192)">Void</span> até que o local se tornou um ar de poeira e o robô se vencido.
 
-[[魂の仕組み]]
+[💠 魂の仕組み](obsidian://open?vault=Obsidian&file=Writing%2F%E9%AD%82%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF)
 
 ---
 
@@ -40,4 +40,45 @@ Humano (Void-X55) ➣ ❝Então foi você seu monstro estúpido que matou meus i
 **Humano atacou o desconhecido mais errou**
 Humano (Void-X55) ➣ ❝Se eu tivesse percepção para saber onde ele está❞ *Diz o humano em leve sussurro*
 ??? ➣ ❝Claro como ser isso te ajuda-se em algo❞ *diz o desconhecido em deboches de confiança*
+Humano (Void-X55) ➣ ❝Eu tenho certeza disso e ganho de você seu monstro lerdo❞
+
+### **Citação da Narrativa**  
+> *"Almas não voltam a ser o que eram... só simulam emoções. Uma Void? Nunca foi completa—apenas um espelho quebrado."*  
+
+**A luta continua até...**
+Gaster ➣ ❝✌☼☜ ✡⚐🕆 ☞✋☝☟❄✋☠☝ ❄☟☜ ☜💣🏱❄✡ 💧⚐🕆☹ ☟🕆💣✌☠✍ (*Você está lutando contra o humano de alma vazia?*)❞ *Diz ele com dúvida*
+??? ➣ ❝Certamente que sim, estou me divertindo com uma alma podre entre as antigas que podem se revividas❞ *Respondeu com certeza no tom apesar de soar com leve riso*
+Humano (Void-X55) ➣ ❝Aparece seu monstro estúpido, eu irei derrota assim como fiz com seu robô idiota!❞ *Ele gritou em fúria querendo um desafio*
+
+**Humano foi atacado por Sans de forma inesperada e morreu**
+??? ➣ ❝Que truste perdi meu 55° Humano❞ *Diz com leve tom de deboche*
+Sans ➣ ❝Esse é humano era fraco...?❞ *Diz em dúvida e descrença*
+Gaster ➣ ❝✡☜💧📪 ✋❄ 💣✌✡ 💧☜☜💣 ✌ 👌✋❄ 💧✋☹☹✡ ❄⚐ 👍⚐💣🏱✌☼☜ ✋❄ ❄⚐ ☞☼✋💧😐 ⚐☼ 👍☟✌☼✌. (*Sim, pode parecer meio estúpido se comparar com Frisk ou Chara*)❞ *Diz com tom de confirmação*
+
+**Sans ficou em seu local preferência igual ao Jogo**
+??? ➣ ❝Vamos deixa ele quieto?❞ *Diz em dúvida parecendo um pouco preocupado*
+Gaster ➣ ❝🕈☜ 👌☜❄❄☜☼ ☹☜✌✞☜ ☟✋💣 ✌☹⚐☠☜📪 ❄☟✌❄ 🕈✌✡ 🕈☜ 🕈⚐☠🕯❄ 👎✋💧❄🕆☼👌 ☟✋💣. (*Melhor deixamos em paz, assim não vamos perturbar ele.*)❞
+
+Enquanto isso Sans apenas ficou na sala do julgamento sozinho, parecia que o tempo demorava, mas Sans observou a alma do Void se comportando para lutar contra um monstro toda vez que morria aparecia se lembra 10% do que aconteceu.
+Undyne se encontrou com Asriel para discutir sobre as questões atuais:
+
+Undyne ➣ ❝Asriel, se viu Gaster?❞ *Dizia em dúvida*
+Asriel ➣ ❝Não, ele não está com Alphys fazendo criação subliminar de Flower meu?❞ *Confirma com confusão*
+Undyne ➣ ❝Soube que um humano invadiu o sub-solo que existe nosso mundo que estamos na superfície❞ *Diz em preocupação com dúvida*
+Asriel ➣ ❝Sim, Frisk constantemente vem se preocupando❞ *Confirma com tom triste quase melancólico*
+Undyne ➣ ❝Bem... pelo lado bom todos vocês deram uma crescida estão na fase da adolescência❞ *Em orgulho em seu tom dizia em leveza*
+Asriel ➣ ❝Certamente, meu pai disse quando eu quiser uma pessoa para realeza para eu casar na fase adulta ou simplesmente fica como namoro.❞ *dizia em leve tristeza*
+
+Undyne compreendendo a situação de Asriel, ela tenta pensa sobre isso querendo sugerir alguém, mas ela sabia que as opções eram erradas
+
+- 📜 ***Narrador***
+Nesse caso de relacionamento vou deixa os fã decidir quem vai ou não fica junto, meu foco bem sincero não é relacionamento, nesse episódio será descoberta significantes para o **NeworldTale**.
+
+## Alternativa Temporal
+Quando Sans olhava que humano da alma vazia passava seu percurso cada vez mais aquele humano, sabia que estava sendo observado, mas não tinha natureza do humano mencionado como 55° humano.
+
+Sans  ➣ ❝Seria por isso que aquele cara com 6 caudas dizia humanos em numeração?❞ *dizia em tom dúvida e incomodo como um sussuro baixo*
+Alphys ➣ ❝Também está estudando o experimento 56°?❞ *Dizia em alegria com tom de sussurro*
+
+Sans levou o susto, mas o humano não acabou vendo que ambos estavam ali devido que andou para frente durante a conversa deles
 

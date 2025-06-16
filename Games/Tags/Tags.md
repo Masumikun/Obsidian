@@ -1,3 +1,3 @@
 ---
-sticker: emoji//1f516
+Sticker: 🔖
 ---

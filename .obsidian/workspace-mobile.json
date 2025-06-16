@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "978bcca3055a6ebe",
+        "id": "ba9ac22b95d655d9",
         "type": "tabs",
         "children": [
           {
-            "id": "864a449236e4ebb0",
+            "id": "cebc652aa8be7fda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotações/Notepads.md",
-                "mode": "source",
+                "file": "Writing/NeworldTale/NeworldTale ep1.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Notepads"
+              "title": "NeworldTale ep1"
             }
           }
         ]
@@ -84,16 +84,6 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
-      },
-      {
-        "id": "46b34f1f16a1d7bf",
-        "type": "leaf",
-        "state": {
-          "type": "mk-path-view",
-          "state": {},
-          "icon": "layout-grid",
-          "title": "Navigator"
-        }
       }
     ],
     "currentTab": 0
@@ -141,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Sub-Obsidians/RPG/Classes/Undertale/Caminho da Almas.md",
+            "file": "Writing/NeworldTale/NeworldTale ep1.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -163,35 +153,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "864a449236e4ebb0",
+  "active": "cebc652aa8be7fda",
   "lastOpenFiles": [
     "Anotações/Notepads.md",
-    "Writing/📓 Diário/day 2.md",
-    "Sub-Obsidians/RPG/Classes/Undertale/Caminho da Almas.md",
-    "Sub-Obsidians/RPG/Livro/Manual de Combate.md",
-    "Sub-Obsidians/RPG/Classes/Classes.md",
-    "Sub-Obsidians/RPG/Classes/Devoto.md",
-    "Sub-Obsidians/RPG/Classes/Feiticeiro.md",
-    "Sub-Obsidians/RPG/Classes/Ladino.md",
-    "Sub-Obsidians/RPG/Classes/Andarilho.md",
-    "Sub-Obsidians/RPG/Classes/Combatente.md",
-    "Sub-Obsidians/RPG/Inicias P/10° Inicial.md",
-    "Sub-Obsidians/RPG/Inicias P/6° Inicial.md",
-    "Sub-Obsidians/RPG/Inicias P/7° Inicial.md",
-    "Sub-Obsidians/RPG/Inicias P/5° Inicial.md",
-    "Sub-Obsidians/RPG/Inicias P/2° Inicial.md",
-    "Sub-Obsidians/RPG/Inicias P/3° Inicial.md",
-    "Sub-Obsidians/RPG/Livro/Comércio & Equipamentos.md",
-    "Sub-Obsidians/RPG/Players/Legados.md",
-    "Sub-Obsidians/RPG/Inicias P/1° Incial.md",
-    "Sub-Obsidians/RPG/Inicias P/9° Inicial.md",
-    "Sub-Obsidians/RPG/Players/Legados/Delahks_Gaia.png",
-    "Sub-Obsidians/RPG/Inicias P/4° Inicial.md",
-    "Sub-Obsidians/RPG/Inicias P/Extras/Teste.md",
-    "Sub-Obsidians/RPG/Inicias P/Extras/Extras.md",
-    "Sub-Obsidians/RPG/Inicias P/8° Inicial.md",
+    "Anotações/Notes.md",
     "Toggles.md",
+    "Notes.md",
+    "Writing/📓 Diário/day 1.md",
+    "Writing/📓 Diário/day 2.md",
+    "Writing/📓 Diário/day 3.md",
+    "Writing/Sonic's/1° Chapter.md",
+    "Tags/Tags.md",
+    "Sub-Obsidians/json.md",
+    "Sub-Obsidians/Storyline/Deuses/Deuses.md",
+    "Sub-Obsidians/RPG/Sonic RPG.md",
+    "Sub-Obsidians/Minecraft/Minecraft.md",
+    "Sub-Obsidians/Minecraft/Structure.md",
+    "Sub-Obsidians/RPG/List Criaturas/Bosses/Boss Difícil 1.md",
+    "Sub-Obsidians/RPG/Classes/Combatente.md",
+    "Sub-Obsidians/RPG/Classes/Classes.md",
+    "Sub-Obsidians/RPG/Classes/Undertale/Caminho da Almas.md",
+    "Writing/NeworldTale/NeworldTale ep1.md",
+    "Writing/NeworldTale/NeworldTale ep2.md",
+    "Writing/Sonic's",
+    "Writing/NeworldTale",
+    "Writing/NeworldTale/魂の仕組み.md",
+    "Writing/魂の仕組み 1.md",
+    "Untitled 1.md",
     "Untitled.md",
+    "Sub-Obsidians/RPG/Livro/Comércio & Equipamentos.md",
+    "Sub-Obsidians/RPG/Players/Status & Conhecimentos.md",
+    "Sub-Obsidians/RPG/Players/Legados/Delahks_Gaia.png",
     "Sub-Obsidians/RPG/Players/Legados/Alraunes.png",
     "Sub-Obsidians/RPG/Players/Legados/Alraunes_Gaia.png",
     "Sub-Obsidians/RPG/Players/Legados/Daevas_Gaia.png",
